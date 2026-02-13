@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "The University of Texas at Arlington",
+    "abbreviation": "UTA",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#F58025",
+    "primaryBrandColor": "#0064B1",
+    "buttonColor": "#F58025",
+    "buttonTextColor": "#FFFFFF",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/utarlington.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/utarlington.png",
+    "partner_id": "001Rd00000Mz88wIAB",
+    "programName": "UTA Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.uta.edu/administration/legal-affairs/privacy/privacy-notice",
+    "registrationMessage": "Registration is now open.",
+    "credits": "6 UTA credits",
+    "startDate": "June 1",
+    "endDate": "August 9"
+  },
+  {
+    "item": "about",
+    "schoolname": "The University of Texas at Arlington",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "210 University Hall, Arlington, TX 76019, US",
+    "abbreviation": "UTA",
+    "phone": "(682) 297-7732",
+    "credits": "6 UTA credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "The University of Texas at Arlington",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTS 2388 (Section-001) / INTS 2388 (Section-002)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 1"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "The University of Texas at Arlington",
+    "trackTitle": "Coding for Web Track",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTS 2388 (Section-001) / INTS 2388 (Section-002)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 1"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "The University of Texas at Arlington",
+    "trackTitle": "Data Analytics Track",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTS 2388 (Section-001) / INTS 2388 (Section-002)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 1"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "The University of Texas at Arlington",
+    "trackTitle": "Coding for Data Track",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTS 2388 (Section-001) / INTS 2388 (Section-002)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 1"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "The University of Texas at Arlington",
+    "trackTitle": "Career Rotation Track",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "INTS 2388 (Section-001) / INTS 2388 (Section-002)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "June 1",
+    "term1EndDate": "August 9",
+    "term2StartDate": "August 17",
+    "term2EndDate": "December 1"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UTA Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(682) 297-7732",
+    "abbreviation": "UTA"
+  },
+  {
+    "item": "begin",
+    "credits": "6 UTA credits",
+    "abbreviation": "UTA",
+    "phone": "(682) 297-7732"
+  }
+]
